@@ -18,9 +18,9 @@
 
 <img src="https://raw.githubusercontent.com/imfile-io/imfile-desktop/master/static/512x512.png" height="20px"> **imfile**：高颜值开源下载工具，基于Motrix 的 fork 并长期维护更新 - [下载点我](https://github.com/imfile-io/imfile-desktop/releases/latest)
 
-<img src="img/utorrent.png"> **uTottent** 支持批量下载种子、优化宽带、安排下载计划、远程连接到 μTorrent Classic - [下载点我](https://www.utorrent.com)
+<img src="img/utorrent.png" height="20px"> **uTottent** 支持批量下载种子、优化宽带、安排下载计划、远程连接到 μTorrent Classic - [下载点我](https://www.utorrent.com)
 
-<img src="img/imfile.jpg.png">**freedownloadmanager**：FDM能夠啟動您的所有下載高達10倍速，處理各種熱門格式的影片，從網路瀏覽器拖放網址，同時下載多個檔案 - [下载点我](https://www.freedownloadmanager.org/zh/download.htm)
+<img src="img/freedownloadmanager.png" height="20px"> **freedownloadmanager**：FDM能夠啟動您的所有下載高達10倍速，處理各種熱門格式的影片，從網路瀏覽器拖放網址，同時下載多個檔案 - [下载点我](https://www.freedownloadmanager.org/zh/download.htm)
 
 > [!TIP]
 > 
