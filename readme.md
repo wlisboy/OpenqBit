@@ -8,7 +8,7 @@
 
 <img src="https://eraychumak.github.io/qBittorrent-website/img/logo.svg" height="20px"> **qBittorrent**：qBittorrent 项目旨在为您提供免费、开源和无广告的软件替代品 - [下载点我](https://eraychumak.github.io/qBittorrent-website)
 
-<img src="https://eraychumak.github.io/qBittorrent-website/img/logo.svg" height="20px">**qBittorrent增强版** ：qBittorrent 是一个用 C++ / Qt 编程的 bittorrent 客户端 - [下载点我](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
+<img src="https://eraychumak.github.io/qBittorrent-website/img/logo.svg" height="20px"> **qBittorrent增强版** ：qBittorrent 是一个用 C++ / Qt 编程的 bittorrent 客户端 - [下载点我](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
 
 <img src="https://www.bitcomet.com/images/logo_64x64.png" height="20px"> **bitcomet**：功能强大速度快，操作简单的BT下载软件，BT资源下载利器 - [下载点我](https://www.bitcomet.com/cn/downloads)
 
